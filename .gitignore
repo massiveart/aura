@@ -1,8 +1,23 @@
-.DS_Store
-node_modules
-bower_components
+### Folders ###
 components
-npm-debug.log
+node_modules
+coverage
 dist
-.sass-cache
 /docs/
+.tmp
+.sass-cache
+_docs
+.bower_components
+
+### Files ###
+._*
+.DS_Store
+.project
+.cache
+*.sublime-project
+*.sublime-workspace
+*.sass-cache
+*.log
+
+.idea/*
+*.iml
