@@ -1,13 +1,14 @@
 ### Folders ###
 components
 node_modules
+bower_components
 coverage
-dist
+npm-debug.log
+.sass-cache
 /docs/
 .tmp
 .sass-cache
 _docs
-.bower_components
 
 ### Files ###
 ._*
